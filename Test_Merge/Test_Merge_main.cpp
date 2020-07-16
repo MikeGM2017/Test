@@ -17,7 +17,7 @@ using namespace std;
 
 int main(int argc, char** argv) {
     
-    cout << "Hello, World! - V02.02" << endl;
+    cout << "Hello, World! - V02.03" << endl;
 
     return 0;
 }
